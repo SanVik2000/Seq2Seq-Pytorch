@@ -14,3 +14,5 @@ We will be using spacy to tokenize our input and target languages. In this tutor
 ```python -m spacy download en```<br>
 ```python -m spacy download de```<br><br>
 Check <a href="https://spacy.io/usage">Here</a> for Spacy Installation instructions<br>
+
+### If you find any mistakes , please do not hesitate to submit an issue. I welcome any feedback, positive or negative!
