@@ -1,5 +1,5 @@
 # Sequence to Sequence Learning with Neural Networks
-Implementing basic sequence to sequence machine translation. Passing the encoded context and target vocabulary one by one.
+Implementing basic sequence to sequence machine translation. In this implementation, we are passing the embedded target token and previous hidden state to the decoder.
 ## Model Architecture
 ![Architecture](Model-Overview.png)<br>
 ## Running this Project
