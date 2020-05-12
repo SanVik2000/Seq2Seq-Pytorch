@@ -8,7 +8,7 @@ Implementing a model for machine translation from German to English using the co
 - [ ] <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>
 ## Getting Started
 Install pytorch to the latest version(with or without CUDA compatibility depending on your system configuration). Use the link below for detailed installation process.<br><a href="https://pytorch.org/">Pytorch-Install</a><br><br>
-Install torchtext as follows:<br>
+Install torchtext using the follwoing command:<br>
 ```pip3 install torchtext```<br><br>
 We will be using spacy to tokenize our input and target languages. In this tutorial we are going to use German(Input) & English(Target) as our languages. For that, execute the follwoing commands:<br>
 ```python -m spacy download en```<br>
