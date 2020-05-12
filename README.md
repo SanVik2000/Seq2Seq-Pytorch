@@ -11,5 +11,6 @@ Install pytorch to the latest version(with or without CUDA compatibility dependi
 Install torchtext as follows:<br>
 ```pip3 install torchtext```<br><br>
 We will be using spacy to tokenize our input and target languages. In this tutorial we are going to use German(Input) & English(Target) as our languages. For that, execute the follwoing commands:<br>
-```python -m spacy download en<br>python -m spacy download de```<br><br>
+```python -m spacy download en```<br>
+```python -m spacy download de```<br><br>
 Check <a href="https://spacy.io/usage">Here</a> for Spacy Installation instructions<br>
